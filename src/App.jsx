@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
       <br></br>
-      <h1 className='text'>Do you want to go on a date with me?</h1>
+      <h1 className='text'>Do you want to be my valentine?</h1>
       <div className='poza'><img src="bear.png" className='bear'></img></div>
       <button className='buton1' style={{
         transform: "scale("+ yesScale + ")",
